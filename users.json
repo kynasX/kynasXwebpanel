@@ -38,5 +38,10 @@
     "username": "sugap",
     "password": "$2a$10$w3sjX7snsUwzckh9g8DSb.26AV/cbk16SRT.3gTToEU0ccAHCFRP6",
     "created_at": "2025-11-06T17:00:24.352Z"
+  },
+  {
+    "username": "kyna",
+    "password": "$2a$10$xJlzF2TT.sAIToiff7mq3eRrymDMG3lQV3awWv49J7wMk7RNy4WiK",
+    "created_at": "2025-11-06T17:10:57.478Z"
   }
 ]
